@@ -1,0 +1,5 @@
+{
+  "name": "Copy of v4 of  ERP-NDC (Onyxes)",
+  "description": "A centralized, multi-tenant Enterprise Resource Planning system for Iraqi Ministries managed by the National Data Center. Features HR, Finance, and SCM modules with full Arabic/English support.",
+  "requestFramePermissions": []
+}
